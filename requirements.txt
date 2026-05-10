@@ -1,0 +1,13 @@
+numpy
+pandas==2.2.2
+scikit-learn
+umap-learn
+librosa
+matplotlib
+plotly
+pywavelets
+scipy
+jupyter
+notebook
+ipython
+requests
