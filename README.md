@@ -165,10 +165,6 @@ latent-physiological-topology/
 │   ├── toroidal_physiological_topology.png
 │   └── holographic_physiological_topology.png
 │
-├── exports/
-│   ├── html_visualizations/
-│   └── figures/
-│
 ├── README.md
 ├── LICENSE
 └── requirements.txt
