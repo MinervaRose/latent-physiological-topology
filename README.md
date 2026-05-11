@@ -1,7 +1,7 @@
 # Latent Physiological Topology  
 ## Dynamic State-Space Modeling of Cardiac Acoustic Signals
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.MY_DOI_HERE.svg)](https://doi.org/10.5281/zenodo.MY_DOI_HERE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20126006.svg)](https://doi.org/10.5281/zenodo.20126006)
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![UMAP](https://img.shields.io/badge/UMAP-Manifold_Learning-purple)
